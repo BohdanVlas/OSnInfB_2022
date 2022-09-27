@@ -1,0 +1,15 @@
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\OsnInfB_PZ2.exe
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\OsnInfB_PZ2.deps.json
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\OsnInfB_PZ2.runtimeconfig.json
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\OsnInfB_PZ2.dll
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\ref\OsnInfB_PZ2.dll
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\bin\Debug\net6.0\OsnInfB_PZ2.pdb
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.dll
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\ref\OsnInfB_PZ2.dll
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.pdb
+C:\Users\Bogdan\source\repos\OsnInfB_PZ2\obj\Debug\net6.0\OsnInfB_PZ2.genruntimeconfig.cache
