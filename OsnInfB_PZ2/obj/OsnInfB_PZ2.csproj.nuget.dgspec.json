@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bogdan\\source\\repos\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj": {}
+    "C:\\Users\\Bogdan\\source\\repos\\OSnInfB_2022\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bogdan\\source\\repos\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj": {
+    "C:\\Users\\Bogdan\\source\\repos\\OSnInfB_2022\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj",
+        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\OSnInfB_2022\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj",
         "projectName": "OsnInfB_PZ2",
-        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj",
+        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\OSnInfB_2022\\OsnInfB_PZ2\\OsnInfB_PZ2.csproj",
         "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\OsnInfB_PZ2\\obj\\",
+        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\OSnInfB_2022\\OsnInfB_PZ2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
         }
       }
     }

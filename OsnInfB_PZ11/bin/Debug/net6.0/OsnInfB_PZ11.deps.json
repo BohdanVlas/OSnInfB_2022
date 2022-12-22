@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OsnInfB_PZ11/1.0.0": {
+        "runtime": {
+          "OsnInfB_PZ11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OsnInfB_PZ11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
